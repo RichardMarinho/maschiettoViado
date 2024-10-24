@@ -18,7 +18,7 @@
                 <ul>
                     <li class="nav-item"><a href="index.php" class="nav-link">Jogos</a></li>
                     <li class="nav-item"><a href="carrinho.php" class="nav-link">Carrinho</a></li>
-                    <li class="nav-item"><a href="cosmeticos
+                    <li class="nav-item"><a href="cosmeticos.php" class="nav-link">Cosméticos</a></li>
                 </ul>
             </div>
             <div class="login-button">
